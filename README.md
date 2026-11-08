@@ -3,7 +3,7 @@
 **AI automation & CRM developer.** I build n8n automations, CRM systems and web apps that stop leads from getting lost — from a website form to a qualified deal in your CRM with an instant alert to sales.
 
 - ⚙️ n8n, Make and Zapier workflows with real error handling, deduplication and logging
-- 🤖 AI agents with OpenAI: lead qualification, classification, RAG chatbots, Telegram bots
+- 🤖 AI workflows with OpenAI: lead qualification, classification, RAG chatbots, Telegram bots
 - 📞 AI voice receptionists (ElevenLabs, Retell) connected to the CRM
 - 🗂️ HubSpot pipelines and integrations — and a custom CRM or SaaS when off-the-shelf tools don't fit
 - 🌍 Polish, Ukrainian and Russian native · English for work · CET time zone
@@ -20,7 +20,7 @@
 
 - **FlowPilot CRM** — multi-tenant CRM and client portal for recruitment agencies in Poland: isolated workspaces, sales pipeline with stage history, follow-up tasks, roles and invitations, CSV import/export, audit trail. Covered by 112 end-to-end browser tests. *Next.js · TypeScript · PostgreSQL · Drizzle ORM · Better Auth · Playwright*
 - **Ceaun** — online ordering platform for restaurants: branded ordering sites in three languages, delivery zones on a map, kitchen screen with live order status, restaurant dashboard and an AI "site factory" that turns a menu into a ready site. *Next.js · PostgreSQL · OpenAI · Telegram*
-- **AI voice receptionist** — ElevenLabs agent on a law-firm website that books consultations: caller details go through an n8n webhook into HubSpot and the team gets a Telegram alert.
+- **AI voice receptionist** — ElevenLabs voice assistant on a law-firm website that books consultations: caller details go through an n8n webhook into HubSpot and the team gets a Telegram alert.
 
 ### Stack
 
